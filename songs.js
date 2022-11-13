@@ -286,4 +286,11 @@ export const songs = [
     cover: `./images/miculpa.jpg`,
     gender: 'TRAP',
   },
+  {
+    path: `./audios/meenseñastermx.mp3`,
+    musicName: 'Me Enseñaste | REMIX',
+    artist: 'Sael ft Duki',
+    cover: `./images/meenseñastermx.jpg`,
+    gender: 'TRAP',
+  },
 ]
