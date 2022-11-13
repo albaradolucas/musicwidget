@@ -279,4 +279,11 @@ export const songs = [
     cover: `./images/unpisomas.jpg`,
     gender: 'TRAP',
   },
+  {
+    path: `./audios/miculpa.mp3`,
+    musicName: 'Mi Culpa',
+    artist: 'Lit Killah ft C.R.O',
+    cover: `./images/miculpa.jpg`,
+    gender: 'TRAP',
+  },
 ]
